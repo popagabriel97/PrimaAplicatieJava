@@ -1,9 +1,11 @@
 package ro.java.ctrln;
 
 public class Main {
-    //JAR - Java Archive
-    // JAVA_HOMEJ
+
+    // Aceasta este metoda MAIN - care porneste o aplicatie Java!
     public static void main(String[] args) {
-        System.out.println("Invat limbajul Java!");
+        //Inainte de comentariu nu se poate pune text
+        //Aici vrem sa afisam pe consola Intellij un mesaj ales de noi
+        System.out.println("Invat limbajul Java si despre masina virtuala Java!");
     }
 }
